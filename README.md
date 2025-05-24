@@ -56,6 +56,18 @@ The layout adjusts for all screen sizes:
 
 ---
 
-### Created by: [Your Name Here]
+### Created by: Akash Kumar  
 
-For more projects like this, check out [Unified Mentor](https://unifiedmentor.com)
+---
+
+## 🔗 GitHub Repository 
+
+  **👉 [Live Code](https://akashkumar2011.github.io/JS-expenseTracker/)**
+
+
+
+## 🚀 Live Demo
+  
+  **👉 [Live Demo](https://akashkumar2011.github.io/JS-expenseTracker/)**
+
+
