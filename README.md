@@ -2,6 +2,8 @@
 
 A fully responsive and user-friendly web application to track income and expenses, built with **HTML, CSS, and JavaScript**.
 
+---
+
 ## 🚀 Features
 
 - Add income and expense transactions
@@ -14,6 +16,8 @@ A fully responsive and user-friendly web application to track income and expense
 - Data persistence using local storage
 - Basic input validation
 - Responsive UI for desktop, tablet, and mobile
+  
+---
 
 ## 📁 Project Structure
 
@@ -37,16 +41,22 @@ A fully responsive and user-friendly web application to track income and expense
 4. Your transaction will appear below. You can delete it anytime.
 5. All data is saved locally, so you won’t lose anything on page refresh.
 
+---
+
 ## 📱 Responsive Design
 The layout adjusts for all screen sizes:
 - 💻 Desktop
 - 📱 Mobile
 - 📊 Tablet
 
+--- 
+
 ## 🛠 Technologies Used
 - **HTML5**
 - **CSS3** (Flexbox, Responsive Design)
 - **Vanilla JavaScript** (DOM Manipulation, LocalStorage)
+
+---
 
 ## 📌 Optional Enhancements (You can add later)
 - Edit existing transactions
