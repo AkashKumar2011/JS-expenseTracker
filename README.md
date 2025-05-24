@@ -56,18 +56,17 @@ The layout adjusts for all screen sizes:
 
 ---
 
-### Created by: Akash Kumar  
-
----
-
 ## 🔗 GitHub Repository 
 
   **👉 [Live Code](https://akashkumar2011.github.io/JS-expenseTracker/)**
 
-
+---
 
 ## 🚀 Live Demo
   
   **👉 [Live Demo](https://akashkumar2011.github.io/JS-expenseTracker/)**
 
+---
+
+### Created by: Akash Kumar  
 
