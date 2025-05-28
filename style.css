@@ -100,15 +100,22 @@
      font-weight: 500;
    }
    
-   
    #transaction-list li button {
      grid-column: 3; /* Place button in the third column */
      width: 11vw;
      margin-top: 1rem;
+     color: red;
      justify-self: end; /* Align button to the right */
    }
+    #expenseHeading{
+        color: fff;
+        background: darkgreend;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        padding: 5px 0;
+    }
 
-   
   @media (max-width: 600px) {
     .summary {
       flex-direction: column;
