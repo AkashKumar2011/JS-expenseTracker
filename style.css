@@ -107,7 +107,8 @@
      color: red;
      justify-self: end; /* Align button to the right */
    }
-    #expenseHeading{
+
+    #expenseHeading {
         color: fff;
         background: darkgreend;
         display: flex;
