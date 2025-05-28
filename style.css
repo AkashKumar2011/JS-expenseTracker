@@ -140,5 +140,8 @@
     #transaction-list li{
         width: 100%;
     }    
+    #transaction-list li button {
+        width: 5rem;
+    }    
   }
   
