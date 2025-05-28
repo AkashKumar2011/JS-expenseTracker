@@ -116,7 +116,8 @@
     form {
       flex-direction: column;
     }
-
-
+    #transaction-list li{
+        width: 100%;
+    }    
   }
   
