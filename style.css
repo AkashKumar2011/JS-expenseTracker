@@ -63,6 +63,7 @@
     color: white;
     border: none;
     cursor: pointer;
+    font-weight: 500;
     transition: background 0.3s;
   }
   
@@ -104,17 +105,24 @@
      grid-column: 3; /* Place button in the third column */
      width: 11vw;
      margin-top: 1rem;
-     color: red;
+     color: white;
+     background: red;
+     font-weight: 500;
      justify-self: end; /* Align button to the right */
    }
 
     #expenseHeading {
-        color: fff;
-        background: darkgreend;
         display: flex;
         flex-direction: row;
         justify-content: center;
-        padding: 5px 0;
+        align-items: center;
+        padding: 7px 0;
+        color: white;
+        background: chocolate;
+        font-size: 3vw;
+        margin-bottom: 1rem;
+        font-weight: 500;
+        border-radius: .5rem;
     }
 
   @media (max-width: 600px) {
