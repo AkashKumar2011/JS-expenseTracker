@@ -63,7 +63,7 @@
     color: white;
     border: none;
     cursor: pointer;
-    font-weight: 500;
+    font-weight: 600;
     transition: background 0.3s;
   }
   
@@ -107,7 +107,7 @@
      margin-top: 1rem;
      color: white;
      background: red;
-     font-weight: 500;
+     font-weight: 600;
      justify-self: end; /* Align button to the right */
    }
 
@@ -120,6 +120,7 @@
         color: white;
         background: chocolate;
         font-size: 3vw;
+        margin-top: 3rem;
         margin-bottom: 1rem;
         font-weight: 500;
         border-radius: .5rem;
@@ -132,6 +133,10 @@
     form {
       flex-direction: column;
     }
+     #transaction-list {
+        display: flex;
+        flex-direction: column;
+      }
     #transaction-list li{
         width: 100%;
     }    
