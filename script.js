@@ -20,10 +20,10 @@ function renderTransactions() {
     const li = document.createElement("li");
     li.classList.add(t.type);
     li.innerHTML = `
-      <div>Date - <span> ${t.date} </span> </div>
-      <div>Expence Name - <span> ${t.description} </span> </div>
-      <div>Expence Type - <span> ${t.category} </span> </div> 
-      <div>Expence Amount - <span> ₹${t.amount} </span> </div> 
+      <div> Date - <span> ${t.date} </span> </div>
+      <div> Name - <span> ${t.description} </span> </div>
+      <div> Type - <span> ${t.category} </span> </div> 
+      <div> Amount - <span> ₹${t.amount} </span> </div> 
       <button onclick="deleteTransaction(${index})">Delete</button>
     `;
     list.appendChild(li);
