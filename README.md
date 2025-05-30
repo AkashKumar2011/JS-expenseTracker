@@ -68,7 +68,7 @@ The layout adjusts for all screen sizes:
 
 ## 🔗 GitHub Repository 
 
-  **👉 [Live Code](https://akashkumar2011.github.io/JS-expenseTracker/)**
+  **👉 [Live Code](https://akashkumar2011/JS-expenseTracker/)**
 
 ---
 
